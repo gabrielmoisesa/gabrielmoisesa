@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/gabriel-moises-alves">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85">
 </a>
-<a href="gabrielmoisesalves18@gmail.com">
+<a href="mailto:gabrielmoisesalves18@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="65">
 </a>
 
