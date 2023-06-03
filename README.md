@@ -41,7 +41,7 @@ I'm a Full Stack web developer with a passion for creating amazing experiences a
 ## 🔥 My stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielmoisesa&theme=dark&hide_border=true&background=222831)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoisesa&layout=compact&bg_color=222831&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoisesa&layout=compact&bg_color=222831&hide_border=true&text_color=e6edf3)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 gabrielmoisesa/gabrielmoisesa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
