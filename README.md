@@ -3,11 +3,18 @@
 <img align='right' src='https://art.pixilart.com/sr2712ab0b35ecd.gif' width='270'>
 
 <a href="https://www.linkedin.com/in/gabriel-moises-alves">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="85">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 <a href="mailto:gabrielmoisesalves18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" width="65">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
+<a href="discordapp.com/users/kombat#5497">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge">
+</a>
+<a href="https://github.com/gabrielmoisesa">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+</a>
+
 
 <br> <!-- Add this line for separation -->
 I'm a Full Stack web developer with a passion for creating amazing experiences and utilizing my creativity to solve problems.
