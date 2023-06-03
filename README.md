@@ -12,8 +12,8 @@
 <br> <!-- Add this line for separation -->
 I'm a Full Stack web developer with a passion for creating amazing experiences and utilizing my creativity to solve problems.
 ##
-- 👀 Currently looking for an entry-level or junior web development position.
 - 🌱 I’m learning full stack web development, specializing in the most in-demand technologies across both front and back-end development. 
+- 👀 Currently looking for an entry-level or junior web developer position.
 - 💞️ I'm looking to collaborate on any project where I can utilize my skills and develop teamwork.
 
 
