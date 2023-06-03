@@ -8,7 +8,7 @@
 <a href="mailto:gabrielmoisesalves18@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge">
 </a>
-<a href="discordapp.com/users/413372727781621771">
+<a href="https://discordapp.com/users/413372727781621771">
   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord Badge">
 </a>
 <a href="https://github.com/gabrielmoisesa">
