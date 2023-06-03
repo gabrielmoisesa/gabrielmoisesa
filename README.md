@@ -21,7 +21,7 @@ I'm a Full Stack web developer with a passion for creating amazing experiences a
 ## 👨‍💻 About me
 - 🌱 I’m learning full stack web development, specializing in the most in-demand technologies across both front and back-end development. 
 - 👀 Currently looking for an entry-level or junior web developer position.
-- 🎮 If I'm not coding, I love gaming in my free time.
+- 🎮 If I'm not coding, I'm gaming in my free time.
 - 💞️ I'm looking to collaborate on any project where I can utilize my skills and develop teamwork.
 ## 🛠️ Languages and Tools
 <div>
