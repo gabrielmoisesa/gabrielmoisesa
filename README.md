@@ -1,4 +1,4 @@
-# Hello world! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hello world! 👋
 
 <img align='right' src='https://art.pixilart.com/sr2712ab0b35ecd.gif' width='270'>
 
