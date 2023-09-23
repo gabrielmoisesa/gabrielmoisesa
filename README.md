@@ -26,7 +26,9 @@
 ![Git](https://img.shields.io/badge/Git-05031C?style=for-the-badge&logo=git&logoColor=F027CF)
 ![Linux](https://img.shields.io/badge/Linux-05031C?style=for-the-badge&logo=linux&logoColor=F027CF)
 
-## <img src="https://cdnb.artstation.com/p/assets/images/images/043/383/477/original/eleanor-hyland-1ebd4b9b-ae79-4309-b422-3f1e6613b022.gif?1637109516" width=32 align=center> My stats
+<img src="https://cdnb.artstation.com/p/assets/images/images/043/383/477/original/eleanor-hyland-1ebd4b9b-ae79-4309-b422-3f1e6613b022.gif?1637109516" width=32 align=left> 
+
+## My stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gabrielmoisesa&theme=modern-lilac2&ring=C118C8&fire=C118C8)](https://git.io/streak-stats)
 
