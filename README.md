@@ -7,8 +7,11 @@
 ## <img src="https://art.pixilart.com/3b3e23434eeced5.png" width="32" align="center"> About me
 
 - ☕ Front-end web developer with a passion for creating amazing experiences and utilizing my creativity to solve problems.
+  
 - 🌱 Learning full stack web development, specializing in the most in-demand technologies across both front and back-end development.
+  
 - 🎮 If I'm not coding, I'm gaming.
+  
 - 💞️ I'm looking to collaborate on any project where I can utilize my skills and develop teamwork.
 
 ## <img src="https://lh3.googleusercontent.com/kgQ_7DlHgdY-Pj47myaaN6omXvTTylzNgUEJy3KHl_6xNaO6UAsOWThbBiYBjaE_tjcH1Byn9uwnIvLA0jTpIg=s500" width=32 align=center> Languages and Tools
