@@ -10,9 +10,19 @@
   
 - 🌱 Learning full stack web development, specializing in the most in-demand technologies across both front and back-end development.
   
-- 🎮 If I'm not coding, I'm gaming.
+- 🎮 If I'm not coding, I'm gaming!
   
 - 💞️ I'm looking to collaborate on any project where I can utilize my skills and develop teamwork.
+
+### PT-BR
+
+- ☕ Desenvolvedor web Full Stack com o objetivo de criar experiências incríveis e utilizar minha criatividade na solução de problemas.
+  
+- 🌱 Atualmente estudo desenvolvimento web Full Stack, me especializando nas tecnologias mais utilizadas no mercado, desde o front até o back-end.
+  
+- 🎮 Se não estou programando, estou jogando!
+  
+- 💞️ Procurando sempre colaborar em projetos onde eu possa praticar minhas skills e desenvolver trabalho em equipe.
 
 ## <img src="https://lh3.googleusercontent.com/kgQ_7DlHgdY-Pj47myaaN6omXvTTylzNgUEJy3KHl_6xNaO6UAsOWThbBiYBjaE_tjcH1Byn9uwnIvLA0jTpIg=s500" width=32 align=center> Languages and Tools
 
