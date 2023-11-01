@@ -6,7 +6,7 @@
 
 ## <img src="https://art.pixilart.com/3b3e23434eeced5.png" width="32" align="center"> About me
 
-- ☕ Front-end web developer with a passion for creating amazing experiences and utilizing my creativity to solve problems.
+- ☕ Full-Stack web developer with a passion for creating amazing experiences and utilizing my creativity to solve problems.
   
 - 🌱 Learning full stack web development, specializing in the most in-demand technologies across both front and back-end development.
   
