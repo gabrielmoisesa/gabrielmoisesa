@@ -14,7 +14,7 @@
   
 - 💞️ I'm looking to collaborate on any project where I can utilize my skills and develop teamwork.
 
-### PT-BR
+### 🇧🇷 PT-BR
 
 - ☕ Desenvolvedor web Full Stack com o objetivo de criar experiências incríveis e utilizar minha criatividade na solução de problemas.
   
